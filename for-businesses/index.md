@@ -14,6 +14,8 @@ backgroundStyle: bg-general-vol
 
 We partner with businesses to diffuse innovation that works.
 
+<br>
+
 ## What Is Disability Inclusion And Disability Innovation And Why Use It?
 Disability inclusion is essential to any business as not doing so would be the potential exclusion of 1.3 billion people worldwide. Disability inclusion is the inclusion and encouragement of people with disabilities to have the same roles non-disabled people have in the work environment through adequate policies and practices. Our services advise businesses to produce scale solutions to create a work environment where inclusive and accessible practices are implemented to create equity in businesses. Disability innovation is the use of research to produce solutions to increase disability inclusion. By adopting disability innovation and co-design in your business, you have the potential to gain business value due to an increase of customer loyalty and profit. As seen in research done by The Purple Pound, businesses lose approximately 2 billion pounds a month by ignoring the needs of disabled people. This statistic exemplifies how the lack of accessibility for disabled people can result in a loss of profit and potential customers. Our services ensure a smooth early adoption of innovation allowing your business to be accessible from the beginning, wasting less time trying to find the barriers and problems preventing your business to be fully accessible and inclusive.
 
